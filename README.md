@@ -13,3 +13,6 @@ POSIX.1-2001 stated as follows:
 > A character that in the output stream indicates that printing should start at the beginning of the next line. It is the character designated by '\n' in the C language. It is unspecified whether this character is the exact sequence transmitted to an output device by the system to accomplish the movement to the next line.
 
 There are no such things like end-of-file. Just have to include the terminating newline character in all files.
+
+## See also
+[utf8-action](https://github.com/bc-lee/utf8-action) Validates all fies are UTF-8 without BOM.
