@@ -16,8 +16,7 @@
   "author": "Byougchan Lee",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.5",
-    "git-ls-files": "^1.1.0"
+    "@actions/core": "^1.2.5"
   },
   "devDependencies": {
     "@types/jest": "^26.0.10",
