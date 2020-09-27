@@ -1,0 +1,6 @@
+name: 'newline-eof-action'
+description: 'Github action who cares about the newline and eof'
+author: 'Byoungchan Lee <byoungchan.lee@gmx.com>'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
