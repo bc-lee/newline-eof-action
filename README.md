@@ -15,4 +15,4 @@ POSIX.1-2001 stated as follows:
 There are no such things like end-of-file. Just have to include the terminating newline character in all files.
 
 ## See also
-[utf8-action](https://github.com/bc-lee/utf8-action) Validates all fies are UTF-8 without BOM.
+[utf8-action](https://github.com/bc-lee/utf8-action) Validates all files are UTF-8 without BOM.
